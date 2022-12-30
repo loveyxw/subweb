@@ -3,7 +3,7 @@
     <li class="footer">
       GitHub:
       <a href="https://github.com/stilleshan/subweb" target="_blank"
-        >stilleshan/subweb</a
+        >时光の订阅转换</a
       >
     </li>
   </ul>
