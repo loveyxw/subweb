@@ -1,6 +1,6 @@
 window.config = {
   // 网站标题
-  siteName: 'Subconverter Web',
+  siteName: '时光の订阅转换',
   // API 地址
   apiUrl: 'http://127.0.0.1:25500',
   // 短域名服务地址
@@ -18,7 +18,7 @@ window.config = {
     },
     {
       title: 'GitHub',
-      link: 'https://github.com/stilleshan/subweb',
+      link: 'https://github.com/xiaowansm5',
       target: '_blank',
     },
   ],
